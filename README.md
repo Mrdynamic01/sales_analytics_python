@@ -19,3 +19,6 @@ business insights and performance trends.
 ## Files
 - `sales_analysis.ipynb` — Full analysis notebook
 - `train.csv` — Dataset
+
+## Dashboard Preview
+![Sales Dashboard](sales_dashboard.png)
